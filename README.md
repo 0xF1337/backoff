@@ -8,7 +8,7 @@ A simple exponential backoff counter in Go (Golang)
 ### Install
 
 ```
-$ go get -v github.com/Er0sSec/backoff
+$ go get -v github.com//backoff
 ```
 
 ### Usage
